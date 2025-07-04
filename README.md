@@ -1,6 +1,6 @@
 ## Resume–Job Match Scorer
 
-A simple AI-powered web app that scores how well your resume matches a job description using NLP (TF-IDF + cosine similarity).
+A simple AI-powered web app that scores how well your resume matches a job description using NLP (TF-IDF + cosine similarity)
 
 ## Features
 - Upload resume (PDF/DOCX/TXT)
@@ -11,7 +11,7 @@ A simple AI-powered web app that scores how well your resume matches a job descr
 - Python
 - Streamlit
 - scikit-learn
-- PyPDF2 + docx2txt
+- PyPDF2 + docx2txt 
 
 ## Run Locally
 
